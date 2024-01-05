@@ -13,11 +13,13 @@
 
 Deauthentication Broadcast - Single:
 
-![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/417a2ea3-c78a-4535-8d04-a63404842b70)
+![Part-1](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/f5f0433f-1b9b-4639-a76d-ad71cdbd11ab)
+
 
 Deauthentication Broadcast - Continuous:
 
-![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/00af2060-1a26-4e77-870e-90b9554e38a7)
+![Part - 1 1](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/af670ef6-a386-4c25-9854-df71e41ae1ac)
+
 
 ## Evil Twin Attack - Wifiphiser
 
@@ -27,7 +29,7 @@ Deauthentication Broadcast - Continuous:
 Output:
 
 
-![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/cf91150b-5c59-4fbf-88fe-cebc65322f55)
+![Part-2 1](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/9021e081-bcab-43a8-9c58-328320ff370c)
 
 
 ## Evil Twin Attack using WifiPumpkin3 - GUI Format
@@ -42,8 +44,7 @@ Output:
 
 Output: 
 
-![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/97f38e0c-6897-40e4-a4bb-6ccc4a577a72)
 
-
+![Part - 4](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/db2539bd-90e9-4807-a7b2-ab8918cc43a7)
 
 
