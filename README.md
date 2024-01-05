@@ -7,8 +7,11 @@
 ## DDOS Attack
 
 •	To commence, the initial step involved installing and upgrading Kali Linux through the terminal. Additionally, the sparrow wifi graphical user interface (GUI) tools are implemented to evaluate potential wifi service set identifiers (SSID). 
+
 • This analysis is conducted to identify the target SSID, which is necessary for executing the assault. Furthermore, Sparrow WiFi conducts an analysis of the wireless local area network (WLAN), enabling monitoring and network discovery.  
+
 • In addition to the steps, the user should proceed by choosing the target SSID and subsequently selecting the options for Deauthentication (single) and Deauthentication (continuous). 
+
 • These options effectively result in the expulsion of clients from the wireless network, hence facilitating the successful execution of the Deauthentication Denial-of-Service (DoS) attack.
 
 Deauthentication Broadcast - Single:
@@ -23,7 +26,9 @@ Deauthentication Broadcast - Continuous:
 
 ## Evil Twin Attack - Wifiphiser
 
-• Wifiphisher tools have been used to analyze the possible SSID and select the target SSID. • Next, update the firmware upgrade option and start the attack. When the user tries to connect to the possible wifi (which is unencrypted), it will automatically pop up a notification called Firmware Upgrade with terms and conditions. 
+• Wifiphisher tools have been used to analyze the possible SSID and select the target SSID. 
+
+• Next, update the firmware upgrade option and start the attack. When the user tries to connect to the possible wifi (which is unencrypted), it will automatically pop up a notification called Firmware Upgrade with terms and conditions. 
 
 • When the user submits the request, it will capture the user username and password, which will display on the terminal. 
 
