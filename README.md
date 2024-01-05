@@ -11,10 +11,11 @@
 • In addition to the steps, the user should proceed by choosing the target SSID and subsequently selecting the options for Deauthentication (single) and Deauthentication (continuous). 
 • These options effectively result in the expulsion of clients from the wireless network, hence facilitating the successful execution of the Deauthentication Denial-of-Service (DoS) attack.
 
-Deauthentication Broadcast - Single
+Deauthentication Broadcast - Single:
+
 ![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/417a2ea3-c78a-4535-8d04-a63404842b70)
 
-Deauthentication Broadcast - Continuous
+Deauthentication Broadcast - Continuous:
 
 ![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/00af2060-1a26-4e77-870e-90b9554e38a7)
 
@@ -38,6 +39,8 @@ Output:
 • Finally, the attack is initiated by executing the START command. This has the potential to render the client device incapable of establishing a connection with the wireless network.
 • The utilization of the Wifipumpkin3 tool enables the execution of a phishing manoeuvre, wherein the user's login credentials are enticed through the presentation of an enticing user login and password interface when connecting to the specific wifi network. 
 • The DarkLogin proxy facilitates the automatic presentation of the login page for users connecting to the network through a series of scripts.
+
+Output: 
 
 ![image](https://github.com/Ibarsjoel1234/Sparrow-Wifi/assets/35426719/97f38e0c-6897-40e4-a4bb-6ccc4a577a72)
 
