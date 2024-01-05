@@ -24,6 +24,7 @@ Deauthentication Broadcast - Continuous:
 ## Evil Twin Attack - Wifiphiser
 
 • Wifiphisher tools have been used to analyze the possible SSID and select the target SSID. • Next, update the firmware upgrade option and start the attack. When the user tries to connect to the possible wifi (which is unencrypted), it will automatically pop up a notification called Firmware Upgrade with terms and conditions. 
+
 • When the user submits the request, it will capture the user username and password, which will display on the terminal. 
 
 Output:
@@ -36,10 +37,15 @@ Output:
 
 
 • Software known as wifipumpkin3 possesses the capability to execute the Deauth Denial-of-Service (DoS) assault. 
-• This process encompasses several steps, beginning with the installation of the WiFi Pumpkin program. 
+
+• This process encompasses several steps, beginning with the installation of the WiFi Pumpkin program.
+
 • Subsequently, the Deauth interface is activated, and the BSSID, obtained through scanning, is referenced. 
+
 • Finally, the attack is initiated by executing the START command. This has the potential to render the client device incapable of establishing a connection with the wireless network.
+
 • The utilization of the Wifipumpkin3 tool enables the execution of a phishing manoeuvre, wherein the user's login credentials are enticed through the presentation of an enticing user login and password interface when connecting to the specific wifi network. 
+
 • The DarkLogin proxy facilitates the automatic presentation of the login page for users connecting to the network through a series of scripts.
 
 Output: 
